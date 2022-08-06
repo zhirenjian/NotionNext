@@ -43,12 +43,12 @@
 - 使用 Tailwind CSS，轻松实现二次开发
 
 ## 特色
-- 支持更多的页面，功能，更多特性、欢迎移步[我的博客](https://tangly1024.com/article/notion-next)查看
+- 支持更多的页面，功能，更多特性、欢迎移步[我的博客](https://notion-next-sepia.vercel.app/)查看
 - 支持多主题切换
 
 | Next | Medium | Hexo | Fukasawa |
 |--|--|--|--|
-| <img src='./docs/theme-next.png' width='300'/> [预览NEXT](https://preview.tangly1024.com/?theme=next)  | <img src='./docs/theme-medium.png' width='300'/> [预览MEDIUM](https://preview.tangly1024.com/?theme=medium) | <img src='./docs/theme-hexo.png' width='300'/> [预览HEXO](https://preview.tangly1024.com/?theme=hexo) | <img src='./docs/theme-fukasawa.png' width='300'/> [预览FUKASAWA](https://preview.tangly1024.com/?theme=fukasawa) |
+| <img src='./docs/theme-next.png' width='300'/> [预览NEXT](https://notion-next-sepia.vercel.app/)  | <img src='./docs/theme-medium.png' width='300'/> [预览MEDIUM](https://preview.tangly1024.com/?theme=medium) | <img src='./docs/theme-hexo.png' width='300'/> [预览HEXO](https://notion-next-sepia.vercel.app/) | <img src='./docs/theme-fukasawa.png' width='300'/> [预览FUKASAWA](https://notion-next-sepia.vercel.app/) |
 
 *只需修改`blog.config.js`文件的`THEME`即可实现主题切换。* 没找到喜欢的主题？[贡献](/CONTRIBUTING.md)一个吧~
 
@@ -64,7 +64,7 @@
 - 在 [Vercel](https://vercel.com)中部署项目
 - **稍微等等就可以访问了！** 简单吗?
 
-更多项目特性及配置的说明，请移步 [NotionNext文档](https://docs.tangly1024.com/zh) 查看，文档正在完善中,欢迎 [参与编辑](https://github.com/tangly1024/nextjs-docs-notion-next)
+更多项目特性及配置的说明，请移步 [NotionNext文档](https://notion-next-sepia.vercel.app/) 查看，文档正在完善中,欢迎 [参与编辑](https://notion-next-sepia.vercel.app/)
 
 ## 快速开发
 - 需要安装Nodejs环境
