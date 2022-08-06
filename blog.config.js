@@ -129,7 +129,7 @@ const BLOG = {
   ADSENSE_GOOGLE_ID: process.env.NEXT_PUBLIC_ADSENSE_GOOGLE_ID || '', // 谷歌广告ID e.g ca-pub-xxxxxxxxxxxxxxxx
 
   // 无关紧要的配置
-  AVATAR: 'https://docimg6.docs.qq.com/image/KHbsK6p1N0exFhmnJCkIJw.jpeg?w=480&h=480&_type=jpeg', // 作者头像，被notion中的ICON覆盖。如果没有ICON则取public目录下的avatar.png
+  AVATAR: '/https://docimg6.docs.qq.com/image/KHbsK6p1N0exFhmnJCkIJw.jpeg?w=480&h=480&_type=jpeg', // 作者头像，被notion中的ICON覆盖。如果没有ICON则取public目录下的avatar.png
   TITLE: process.env.NEXT_PUBLIC_TITLE || '执方书院', // 站点标题 ，被notion中的页面标题覆盖
   DESCRIPTION:
     process.env.NEXT_PUBLIC_DESCRIPTION || '这是一个由NotionNext生成的站点', // 站点描述，被notion中的页面描述覆盖
