@@ -1,6 +1,6 @@
 const CONFIG_HEXO = {
   HOME_BANNER_ENABLE: true,
-  HOME_BANNER_GREETINGS: ['Hi~欢迎来到执方书院', '我是小执', '这里是我的博客主页', '欢迎访问执方书院！🎉🎉🎉'], // 首页大图标语文字
+  HOME_BANNER_GREETINGS: ['👀这里是执方书院', '鱼水三顾合风云四海生！🐳', '遇见你便成了最好的时刻！😎'], // 首页大图标语文字
 
   // 菜单配置
   MENU_CATEGORY: true, // 显示分类
