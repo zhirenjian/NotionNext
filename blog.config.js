@@ -57,14 +57,7 @@ const BLOG = {
     'https://cdn.jsdelivr.net/npm/live2d-widget-model-wanko@1.0.5/assets/wanko.model.json', // 挂件模型地址 @see https://github.com/xiazeyu/live2d-widget-models
   WIDGET_PET_SWITCH_THEME: true, // 点击宠物挂件切换博客主题
 
- <div id="cusdis_thread"
-  data-host="https://cusdis.com"
-  data-app-id="84bcf27b-1eb7-4b37-93cb-41c157766db5"
-  data-page-id="{{ PAGE_ID }}"
-  data-page-url="{{ PAGE_URL }}"
-  data-page-title="{{ PAGE_TITLE }}"
-></div>
-<script async defer src="https://cusdis.com/js/cusdis.es.js"></script>// 评论互动 可同时开启多个支持 GISCUS CUSDIS UTTERRANCES GITALK
+// 评论互动 可同时开启多个支持 GISCUS CUSDIS UTTERRANCES GITALK
 
   // giscus @see https://giscus.app/
   COMMENT_GISCUS_REPO: process.env.NEXT_PUBLIC_COMMENT_GISCUS_REPO || 'zhirenjian/NotionNext', // 你的Github仓库名 e.g 'tangly1024/NotionNext'
