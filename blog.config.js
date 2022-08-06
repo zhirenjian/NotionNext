@@ -42,11 +42,11 @@ const BLOG = {
   PREVIEW_TAG_COUNT: 16, // 首页最多展示的标签数量，0为不限制
 
   // 社交链接，不需要可留空白，例如 CONTACT_WEIBO:''
+  微信: 'ZRJ20201001ZGWS',
+  QQ: '103258454',
+  博客: 'https://notion-next-sepia.vercel.app/',
   CONTACT_EMAIL: 'https://github.com/zhirenjian',
-  CONTACT_WEIBO: '',
-  CONTACT_TWITTER: '',
   CONTACT_GITHUB: 'https://github.com/zhirenjian',
-  CONTACT_TELEGRAM: 'https://notion-next-sepia.vercel.app/',
 
   // 鼠标点击烟花特效
   FIREWORKS: process.env.NEXT_PUBLIC_FIREWORKS || true, // 鼠标点击烟花特效
