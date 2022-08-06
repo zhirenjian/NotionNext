@@ -139,3 +139,11 @@ const BLOG = {
 }
 
 module.exports = BLOG
+<div id="cusdis_thread"
+  data-host="https://cusdis.com"
+  data-app-id="84bcf27b-1eb7-4b37-93cb-41c157766db5"
+  data-page-id="{{ PAGE_ID }}"
+  data-page-url="{{ PAGE_URL }}"
+  data-page-title="{{ PAGE_TITLE }}"
+></div>
+<script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
