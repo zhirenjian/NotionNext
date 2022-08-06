@@ -1,7 +1,8 @@
 // 注: process.env.XX是Vercel的环境变量，配置方式见：https://docs.tangly1024.com/zh/features/personality
 const BLOG = {
   AUTHOR: '执人间', // 作者
-  BIO: '知我所能，我所能者尽善尽美，知我所不能，我所不能者虚怀若谷！', // 作者简介
+  BIO: '知我所能，我所能者尽善尽美，
+        知我所不能，我所不能者虚怀若谷！', // 作者简介
   LINK: 'https://notion-next-sepia.vercel.app/', // 网站地址
   KEYWORDS: 'Notion, 博客,执方书院,执人间', // 网站关键词 英文逗号隔开
   NOTION_PAGE_ID:
