@@ -1,16 +1,16 @@
 {
   "name": "notion-next",
   "version": "3.4.3",
-  "homepage": "https://github.com/tangly1024/NotionNext.git",
+  "homepage": "https://github.com/zhirenjian/NotionNext-001-.git",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tangly1024/NotionNext.git"
+    "url": "https://github.com/zhirenjian/NotionNext-001-.git"
   },
   "author": {
-    "name": "tangly",
-    "email": "mail@tangly1024.com",
-    "url": "http://tangly1024.com"
+    "name": "zhifangshuyuan",
+    "email": "zhifangshuyuan.top",
+    "url": "http://zhifangshuyuan.top"
   },
   "scripts": {
     "dev": "next dev",
@@ -70,7 +70,7 @@
     "axios": ">=0.21.1"
   },
   "bugs": {
-    "url": "https://github.com/tangly/NotionNext/issues",
-    "email": "tlyong1992@hotmail.com"
+    "url": "https://github.com/zhirenjian",
+    "email": "zhirenjian_0618tyy@163"
   }
 }
