@@ -43,11 +43,11 @@ const BLOG = {
 
   // 社交链接，不需要可留空白，例如 CONTACT_WEIBO:''
   
- CONTACT_EMAIL: 'https://github.com/zhirenjian',
-  CONTACT_WEIBO: 'zhirenjian_0618tyy@163.com',
+ CONTACT_EMAIL: 'zhirenjian_0618tyy@163.com',
+  CONTACT_WEIBO: '执人间',
   CONTACT_TWITTER: 'https://www.zhifangshuyuan.top',
   CONTACT_GITHUB: 'https://github.com/zhirenjian',
-  CONTACT_TELEGRAM: '',
+  CONTACT_TELEGRAM: 'zhifangshuyuan.top',
   
   // 鼠标点击烟花特效
   FIREWORKS: process.env.NEXT_PUBLIC_FIREWORKS || true, // 鼠标点击烟花特效
