@@ -43,9 +43,9 @@ const BLOG = {
 
   // 社交链接，不需要可留空白，例如 CONTACT_WEIBO:''
   
- CONTACT_EMAIL: 'zhifangshuyuan.top',
-  CONTACT_WEIBO: '',
-  CONTACT_TWITTER: '',
+ CONTACT_EMAIL: 'https://github.com/zhirenjian',
+  CONTACT_WEIBO: 'zhirenjian_0618tyy@163.com',
+  CONTACT_TWITTER: 'https://www.zhifangshuyuan.top',
   CONTACT_GITHUB: 'https://github.com/zhirenjian',
   CONTACT_TELEGRAM: '',
   
