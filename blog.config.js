@@ -43,7 +43,7 @@ const BLOG = {
 
   // 社交链接，不需要可留空白，例如 CONTACT_WEIBO:''
   
- CONTACT_EMAIL: 'zhirenjian_0618tyy@163.com',
+  CONTACT_EMAIL: 'zhirenjian_0618tyy@163.com',
   CONTACT_WEIBO: 'https://weibo.com/u/7336847168',
   CONTACT_TWITTER: '',
   CONTACT_GITHUB: 'https://github.com/zhirenjian',
@@ -58,9 +58,9 @@ const BLOG = {
     'https://cdn.jsdelivr.net/npm/live2d-widget-model-wanko@1.0.5/assets/wanko.model.json', // 挂件模型地址 @see https://github.com/xiazeyu/live2d-widget-models
   WIDGET_PET_SWITCH_THEME: false, // 点击宠物挂件切换博客主题
 
-  评论互动 可同时开启多个支持 GISCUS CUSDIS UTTERRANCES GITALK
-
-  @see https://giscus.app/
+  // 评论互动 可同时开启多个支持 GISCUS CUSDIS UTTERRANCES GITALK
+  
+  // giscus @see https://giscus.app/
   COMMENT_GISCUS_REPO: process.env.NEXT_PUBLIC_COMMENT_GISCUS_REPO || 'zhirenjian/NotionNext', // 你的Github仓库名 e.g 'tangly1024/NotionNext'
   COMMENT_GISCUS_REPO_ID: process.env.NEXT_PUBLIC_COMMENT_GISCUS_REPO_ID || 'giscus', // 你的Github Repo ID e.g ( 設定完 giscus 即可看到 )
   COMMENT_GISCUS_CATEGORY_ID:
